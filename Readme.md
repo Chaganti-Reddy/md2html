@@ -1,4 +1,4 @@
-# 🦀 rust_cli_MD2HTML
+# 🦀 Rust CLI MD2HTML
 
 A fast, minimal **Markdown → HTML converter** written in pure **Rust**, using:
 - [`clap`](https://crates.io/crates/clap) for elegant CLI argument parsing
